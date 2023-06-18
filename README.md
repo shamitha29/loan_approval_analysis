@@ -31,4 +31,4 @@ Bi-Variate analysis : This type of data involves two different variables. The an
 - Train the model : Training a machine learning (ML) model is a process in which a machine learning algorithm is fed with training data from which it can learn. ML models can be trained to benefit businesses in numerous ways, by quickly processing huge volumes of data, identifying patterns, finding anomalies or testing correlations that would be difficult for a human to do unaided. ML algorithm used here is logistic regression.
 # Dataset 
 
-![dataset](https://github.com/shamitha29/loan_approval_analysis/assets/76781942/f3c534b7-2e18-4769-8da4-81380857ce6d)
+![Screenshot (35)](https://github.com/shamitha29/loan_approval_analysis/assets/76781942/09f35f0a-2174-4cb8-82c1-8e51f58870d2)
